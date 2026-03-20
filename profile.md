@@ -2,7 +2,6 @@
 
 **Engineering Leader | Simulation & AI Systems | Software & Platform Engineering | Technical & Delivery Leadership**
 
-Greater Calgary Metropolitan Area  
 attilaszaboo@gmail.com  
 [linkedin.com/in/attilaszaboo](https://www.linkedin.com/in/attilaszaboo)
 
@@ -119,7 +118,7 @@ B.Sc., Computer Science · 1987 – 1992
 - Agentic AI, DeepLearning.AI, October 2025, https://learn.deeplearning.ai/certificates/ec663e90-88ae-442f-ba6c-c70829eb456e
 - Retrieval Augmented Generation (RAG), DeepLearning.AI, October 2025, https://www.coursera.org/account/accomplishments/records/QB52DIBMKGJM
 - Neural Networks and Deep Learning, DeepLearning.AI, April 2022, https://coursera.org/verify/6CFJRLRLTRRD
-- Machine Learning Foundations: A Case Study Approach
+- Machine Learning, Coursera, Nov 2015, https://www.coursera.org/account/accomplishments/verify/V7JRWUP6QGSH
 - Stay Lean with Kanban
 - Agile Product Owner Role: Foundations
 - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization

@@ -53,7 +53,7 @@ export interface Recommendation {
 export const profile = {
   name: "Attila Szabo",
   title: "Engineering Leader | Simulation & AI Systems | Software & Platform Engineering | Technical & Delivery Leadership",
-  location: "Greater Calgary Metropolitan Area",
+  location: "*2017 – 2022 (5 years) · Greater Montreal Metropolitan Area*",
   email: "attilaszaboo@gmail.com",
   linkedin: "https://www.linkedin.com/in/attilaszaboo",
   summary: [
@@ -244,7 +244,10 @@ export const profile = {
       logo: "/logos/deeplearningai_logo.jfif"
     },
     {
-      name: "Machine Learning Foundations: A Case Study Approach"
+      name: "Machine Learning",
+      issuer: "Coursera",
+      date: "Nov 2015",
+      href: "https://www.coursera.org/account/accomplishments/verify/V7JRWUP6QGSH"
     },
     {
       name: "Stay Lean with Kanban"
