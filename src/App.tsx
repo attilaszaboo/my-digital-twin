@@ -4,6 +4,7 @@ import Experience from './components/Experience'
 import Projects from './components/Projects'
 import Recommendations from './components/Recommendations'
 import Footer from './components/Footer'
+import { Analytics } from '@vercel/analytics/react'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
           <Recommendations />
         </main>
         <Footer />
+        <Analytics />
         </div>
       </div>
     </div>
