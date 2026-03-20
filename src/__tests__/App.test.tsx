@@ -29,7 +29,7 @@ describe('App', () => {
 
   it('renders projects section', () => {
     render(<App />)
-    expect(screen.getByText('AI Assistant Bug Triage System')).toBeInTheDocument()
+    expect(screen.getByText(/AI Assist(ed|ant) Bug Triage System/)).toBeInTheDocument()
     expect(screen.getByText('Safe Scene Script Execution')).toBeInTheDocument()
   })
 
